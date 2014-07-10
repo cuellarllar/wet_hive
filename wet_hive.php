@@ -67,7 +67,7 @@ class wet_hive_theme extends hive_theme
 			// Use all styles and scripts from the parent theme
 			parent::html_head().
 			// Add a font resource
-			"<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic'>".
+			"<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,800'>".
 			// Overwrite the parent theme's styles with my own custom styles
 			"<link rel='stylesheet' href='".$myurl."wet_hive.css'>";
 	}
@@ -75,10 +75,10 @@ class wet_hive_theme extends hive_theme
 	function manifest()
 	{
 		return array(
-			'author'      => 'Robert Wetzlmayr',
-			'author_uri'  => 'http://wetzlmayr.com/',
+			'author'      => 'Carlos Cuellar',
+			'author_uri'  => 'http://carloscuellar.net/',
 			'version'     => '0.1',
-			'description' => 'Textpattern Wet Hive Theme',
+			'description' => 'Textpattern Custom Theme',
 			'help'        => 'http://textpattern.com/admin-theme-help',
 		);
 	}
