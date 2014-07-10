@@ -1,4 +1,4 @@
-h1. Wet Hive admin theme for Textpattern CMS
+h1. Wet Hive admin theme for Textpattern
 
 h3. Installation
 
