@@ -105,3 +105,8 @@ legend {
   background: #eee;
   border-bottom: 1px solid #ddd;
 }
+
+#article-col-1, 
+#article-col-2 {
+  width: 20%;
+}
