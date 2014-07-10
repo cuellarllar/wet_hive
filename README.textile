@@ -10,13 +10,10 @@ You customizations are stored separately from the core theme and will thus survi
 
 h3. Installation
 
-# "Download":https://github.com/rwetzlmayr/wet_hive/archive/master.zip and unzip this theme.
+# "Download":https://github.com/cuellarllar/wet_hive/archive/master.zip and unzip this theme.
 # Create a 'wet_hive' directory in /textpattern/theme.
 # Copy 'wet_hive.php' and the accompanying style sheet 'wet_hive.css' into /textpattern/theme/wet_hive.
 # Go to the preferences tab and change the admin-side theme to 'Wet_hive'.
-# If all went well:
-## A kitten will show up instead of the top-left Textpattern logo
-## Your admin-side's base font will be set to 'Roboto'.
 # Add your own custom styles to /textpattern/theme/wet_hive/custom.css and design away...
 
 h3. Frequently Asked Questions
@@ -24,7 +21,7 @@ h3. Frequently Asked Questions
 Q: Can I change the 'wet_hive' name to something else?
 A: Yes. Just rename both the directory /textpattern/theme/wet_hive and the file /textpattern/theme/wet_hive/wet_hive.php to your liking.
 
-Q: Can I add more than one style sheet, remove the 'Roboto' font, or add a custom Javascript file to the &lt;head&gt;?
+Q: Can I add more than one style sheet, remove the 'Open Sans' font, or add a custom Javascript file to the &lt;head&gt;?
 A: Yes. Look into the html_head() function in wet_hive.php.
 
 Q: How can I uninstall this theme?
