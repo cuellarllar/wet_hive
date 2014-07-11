@@ -4,7 +4,7 @@ h3. Installation
 
 # "Download":https://github.com/cuellarllar/wet_hive/archive/master.zip and unzip this theme.
 # Create a 'wet_hive' directory in /textpattern/theme.
-# Copy 'wet_hive.php' and the accompanying style sheet 'wet_hive.css' into /textpattern/theme/wet_hive.
+# Copy the unzipped files into /textpattern/theme/wet_hive.
 # Go to the preferences tab and change the admin-side theme to 'Wet_hive'.
 # Add your own custom styles to /textpattern/theme/wet_hive/custom.css and design away...
 
