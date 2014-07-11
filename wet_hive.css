@@ -110,3 +110,12 @@ legend {
 #article-col-2 {
   width: 20%;
 }
+
+@media only screen and (max-width: 768px) {
+
+  #article-col-1, 
+  #article-col-2 {
+    width: 100%;
+  }
+
+}
