@@ -117,7 +117,7 @@ legend {
   display: none;
 }
 
-textarea {
+#article-main textarea {
   background: gray;
   color: white;
   font-size: 16px;
